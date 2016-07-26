@@ -1,0 +1,14 @@
+layout_spectrum: 0.5657895
+typography_spectrum: 0.2894737
+color:
+  saturation: 0.160401
+  brandStrength: 0.2173679
+  lightness: 0.3640351
+  brandColors:
+    - '#EFFFFF'
+    - '#786D6B'
+    - '#191E31'
+    - '#B2B1B6'
+    - '#60FFFF'
+  rhythmicContrast: 0.2819549
+name: Noni
